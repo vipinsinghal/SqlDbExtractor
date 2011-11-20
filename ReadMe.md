@@ -11,6 +11,11 @@
 	- My friend and well Known Indian MVP Mr. Pinal Dave to provide such a good thing : http://blog.sqlauthority.com/2006/11/01/sql-server-query-to-display-foreign-key-relationships-and-name-of-the-constraint-for-each-table-in-database/
 	- Member of sqlTeam for their contribution - http://www.sqlteam.com/forums/topic.asp?TOPIC_ID=72957
 
+#### Stable release consist
+	- Command Line arguments
+ 	- Help documentations
+  
+  
 We are in the process of testing phase and preparing documentations for the stable release.
 
 Thanks for your patience
