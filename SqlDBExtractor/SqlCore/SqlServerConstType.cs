@@ -1,13 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
+//Adapted from http://nmg.codeplex.com/
+//This is only for reference purpose and not for commercial use
 namespace SqlDBE.Core.SqlCore
 {
     public sealed class SqlServerConstType
     {
-
         public static readonly SqlServerConstType PrimaryKey = new SqlServerConstType(1, "PRIMARY KEY");
         public static readonly SqlServerConstType ForeignKey = new SqlServerConstType(2, "FOREIGN KEY");
         public static readonly SqlServerConstType Check = new SqlServerConstType(3, "CHECK");
@@ -26,6 +24,5 @@ namespace SqlDBE.Core.SqlCore
         {
             return _name;
         }
-
     }
 }
