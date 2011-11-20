@@ -1,0 +1,5 @@
+D:\Gaurav-Stuff\SqlDBExtractor\SqlDBExtractor\obj\Debug\SqlDBExtractor.Core.csprojResolveAssemblyReference.cache
+D:\Gaurav-Stuff\SqlDBExtractor\SqlDBExtractor\bin\Debug\SqlDBE.Core.dll
+D:\Gaurav-Stuff\SqlDBExtractor\SqlDBExtractor\bin\Debug\SqlDBE.Core.pdb
+D:\Gaurav-Stuff\SqlDBExtractor\SqlDBExtractor\obj\Debug\SqlDBE.Core.dll
+D:\Gaurav-Stuff\SqlDBExtractor\SqlDBExtractor\obj\Debug\SqlDBE.Core.pdb

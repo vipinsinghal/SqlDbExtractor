@@ -1,0 +1,11 @@
+D:\Gaurav-Stuff\SqlDBExtractor\SqlDBExtractor.Test\bin\Debug\SqlDBE.Test.dll
+D:\Gaurav-Stuff\SqlDBExtractor\SqlDBExtractor.Test\bin\Debug\SqlDBE.Test.pdb
+D:\Gaurav-Stuff\SqlDBExtractor\SqlDBExtractor.Test\obj\Debug\SqlDBExtractor.Test.csprojResolveAssemblyReference.cache
+D:\Gaurav-Stuff\SqlDBExtractor\SqlDBExtractor.Test\obj\Debug\SqlDBE.Test.dll
+D:\Gaurav-Stuff\SqlDBExtractor\SqlDBExtractor.Test\obj\Debug\SqlDBE.Test.pdb
+D:\Gaurav-Stuff\SqlDBExtractor\SqlDBExtractor.Test\bin\Debug\nunit.framework.dll
+D:\Gaurav-Stuff\SqlDBExtractor\SqlDBExtractor.Test\bin\Debug\nunit.mocks.dll
+D:\Gaurav-Stuff\SqlDBExtractor\SqlDBExtractor.Test\bin\Debug\pnunit.framework.dll
+D:\Gaurav-Stuff\SqlDBExtractor\SqlDBExtractor.Test\bin\Debug\SqlDBE.Core.dll
+D:\Gaurav-Stuff\SqlDBExtractor\SqlDBExtractor.Test\bin\Debug\SqlDBE.Core.pdb
+D:\Gaurav-Stuff\SqlDBExtractor\SqlDBExtractor.Test\bin\Debug\nunit.framework.xml
